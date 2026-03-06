@@ -1,0 +1,1 @@
+Chrome extension for Clovr refund management - auto-verify delayed shipments
