@@ -1,0 +1,1 @@
+# Credentials and secrets\n.env\n.env.local\n.env.*.local\nnode_modules/\n\n# IDE\n.vscode/\n.idea/\n*.swp\n*.swo\n*~\n.DS_Store\n\n# Build\ndist/\nbuild/\n\n# Chrome extension\n*.pem
